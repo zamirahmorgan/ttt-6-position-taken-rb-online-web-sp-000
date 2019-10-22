@@ -1,3 +1,4 @@
+require_relative '../lib/position_taken.rb'
 # code your #position_taken? method here!
 the_board = ["",""," ", " ", "X", " ", " ", " ",""]
 
